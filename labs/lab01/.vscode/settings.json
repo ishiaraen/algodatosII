@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "array_helpers.h": "c",
+        "stdbool.h": "c"
+    }
+}
